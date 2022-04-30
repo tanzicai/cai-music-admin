@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.13.6",
+    "axios": "^0.27.2",
+    "axois": "^0.0.1-security",
     "quasar": "^2.6.6",
     "vue": "^3.2.25"
   },
